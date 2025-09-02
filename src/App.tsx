@@ -2336,12 +2336,12 @@ contract Token is Context, IERC20Metadata, Ownable {
               <div className="space-y-4">
                 <div className='space-y-1.5'>
                   <p className="text-xs text-gray-500 uppercase tracking-wide">MAX TOTAL SUPPLY</p>
-                  <p className="text-sm">60,999,999,000 TICS</p>
+                  <p className="text-sm">100,000,000,000 WLFI</p>
                 </div>
 
                 <div className='space-y-1.5'>
                   <p className="text-xs text-gray-500 uppercase tracking-wide">HOLDERS</p>
-                  <p className="text-sm">90,500</p>
+                  <p className="text-sm">71,919</p>
                 </div>
               </div>
             </div>
